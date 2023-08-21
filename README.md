@@ -10,4 +10,4 @@ modificaciones para pull
 
 AGREGO NUEVA LINEA EN RAMA
 nueva modificacion para ctualizar pull requeste
-
+nueva modificacion clase 1 Metodología
