@@ -13,3 +13,4 @@ nueva modificacion para ctualizar pull requeste
 nueva modificacion clase 1 Metodología
 segunda modificación clase 1 metodología
 usamos VSC para nueva línea
+Modificación para tags1
