@@ -14,3 +14,4 @@ nueva modificacion clase 1 Metodología
 segunda modificación clase 1 metodología
 usamos VSC para nueva línea
 Modificación para tags1
+Modificación para tags 2
