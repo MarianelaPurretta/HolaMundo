@@ -8,7 +8,7 @@ no se que poner ya
 modificaciones en main
 modificaciones para pull
 
-METODOLOGÍA CLASE 3 MODIFICACIÓN DE LÍNEA
+Metodología clase3 modificación de línea
 nueva modificacion para ctualizar pull requeste
 nueva modificacion clase 1 Metodología
 segunda modificación clase 1 metodología
